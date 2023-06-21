@@ -43,7 +43,7 @@
 > ```
 
 *Answer*<br>
-**Code** [Link]()
+**Code** [Link](https://github.com/Srijana1425/Stacks_Assignment16/blob/main/ans1.js)
 ******************************************************************************************************************************************************
 
 
@@ -62,7 +62,7 @@
 > ```
 
 *Answer*<br>
-**Code** [Link]()
+**Code** [Link](https://github.com/Srijana1425/Stacks_Assignment16/blob/main/ans2.js)
 ******************************************************************************************************************************************************
 
 ## 💡 Question 03
@@ -76,7 +76,7 @@
 > Output : Stack[] = [1, 2, 4, 5, 6]
 
 *Answer*<br>
-**Code** [Link]()
+**Code** [Link](https://github.com/Srijana1425/Stacks_Assignment16/blob/main/ans3.js)
 ******************************************************************************************************************************************************
 
 ## 💡 Question 04
@@ -108,7 +108,7 @@
 > Now, from using any of above operation, we cannot push 5 into the second Queue because it is below the 6 in the stack.
 
 *Answer*<br>
-**Code** [Link]()
+**Code** [Link](https://github.com/Srijana1425/Stacks_Assignment16/blob/main/ans4.js)
 ******************************************************************************************************************************************************
 
 
@@ -127,7 +127,7 @@
 > ```
 
 *Answer*<br>
-**Code** [Link]()
+**Code** [Link](https://github.com/Srijana1425/Stacks_Assignment16/blob/main/ans5.js)
 ******************************************************************************************************************************************************
 
 
@@ -143,7 +143,7 @@
 > - **front() :** Finds front item
 
 *Answer*<br>
-**Code** [Link]()
+**Code** [Link](https://github.com/Srijana1425/Stacks_Assignment16/blob/main/ans6.js)
 ******************************************************************************************************************************************************
 
 
@@ -164,7 +164,7 @@
 > _As first both jerry will destroy each other._ > _Then sequence will be tom, tom they will also destroy_ > _each other. So, the final sequence doesn’t contain any_ > _word._
 
 *Answer*<br>
-**Code** [Link]()
+**Code** [Link](https://github.com/Srijana1425/Stacks_Assignment16/blob/main/ans7.js)
 ******************************************************************************************************************************************************
 
 
@@ -194,4 +194,4 @@
 > ```
 
 *Answer*<br>
-**Code** [Link]()
+**Code** [Link](https://github.com/Srijana1425/Stacks_Assignment16/blob/main/ans8.js)
