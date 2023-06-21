@@ -42,6 +42,11 @@
 > Output : [2, 2, 2, -1, -1, -1, -1, 3, -1, -1]
 > ```
 
+*Answer*<br>
+**Code** [Link]()
+******************************************************************************************************************************************************
+
+
 ## 💡 Question 02
 
 > Given a stack of integers, sort it in ascending order using another temporary stack.
